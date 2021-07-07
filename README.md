@@ -29,3 +29,16 @@ https://arsalan-kh.github.io/Todo-list/
 
 ## Repo link:
 https://github.com/Arsalan-kh/Todo-list.git
+
+## Grocery List repo link:
+https://github.com/Arsalan-kh/Grocery-list.git
+
+## Grocery List Live link:
+https://arsalan-kh.github.io/Grocery-list-App/
+
+## Todo List UI:
+## Repo link:
+https://github.com/Arsalan-kh/Todo-List-UI.git
+
+## Live link:
+https://arsalan-kh.github.io/Todo-List-UI/
